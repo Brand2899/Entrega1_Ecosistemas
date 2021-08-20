@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/HP OMEN CE002/Desktop/Universidad/DMI/6 Semestre/Ecosistema de aplicaciones/Trabajo 1/Entrega1_Ecosistemas/app/src/main/res/layout/activity_main.xml" value="0.28125" />
+        <entry key="..\:/Users/HP OMEN CE002/Desktop/Universidad/DMI/6 Semestre/Ecosistema de aplicaciones/Trabajo 1/Entrega1_Ecosistemas/app/src/main/res/drawable/bg_color.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP OMEN CE002/Desktop/Universidad/DMI/6 Semestre/Ecosistema de aplicaciones/Trabajo 1/Entrega1_Ecosistemas/app/src/main/res/drawable/bg_color_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP OMEN CE002/Desktop/Universidad/DMI/6 Semestre/Ecosistema de aplicaciones/Trabajo 1/Entrega1_Ecosistemas/app/src/main/res/drawable/bg_color_textfield.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP OMEN CE002/Desktop/Universidad/DMI/6 Semestre/Ecosistema de aplicaciones/Trabajo 1/Entrega1_Ecosistemas/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
